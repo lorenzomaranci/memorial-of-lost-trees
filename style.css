@@ -42,18 +42,22 @@ body {
 a {
     text-decoration: none;
 }
+.section-btn-container {
+    margin: 1.2em 0;
+}
 .section-btn {
     color: #000000;
     font-weight: 500;
     background-color: #FFDF30;
     padding: 0.6em 1.2em;
-    margin: 1.8em 0.9em;
+    margin: 0.9em;
     display: inline-block;
     width: 10em;
     border-radius: 8px;
 }
 .footer {
     text-align: center;
+    margin: 1.2em 0;
 }
 .footer-section {
     display: inline-block;
